@@ -1,4 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
+![...](https://github.com/alraune91/Android-Studiuo-lesson2/blob/main/Screenshot_LP.pngv
+
+XMl code:
 <LinearLayout
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -62,4 +64,3 @@
         android:layout_gravity="center"
         android:gravity="center"/>
 </LinearLayout>
-![image](https://github.com/alraune91/Android-Studiuo-lesson2/assets/149472015/a04d75a8-d1b7-4e9f-9c12-0920d04730ae)
