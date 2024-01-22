@@ -1,4 +1,4 @@
-![...](https://github.com/alraune91/Android-Studiuo-lesson2/blob/main/Screenshot_LP.pngv
+![w](https://github.com/alraune91/Android-Studiuo-lesson2/blob/main/Screenshot_LP.png)
 
 XMl code:
 <LinearLayout
